@@ -20,5 +20,52 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "스타트업 큐브": {
+      "style": "concrete",
+      "wall": "#57595c",
+      "glass": "#2f3a42",
+      "frame": "#c63a2e"
+    },
+    "백령아트센터": {
+      "style": "concrete",
+      "wall": "#e4e4e0",
+      "glass": "#3a4248",
+      "frame": "#cdcdc9"
+    },
+    "백령 스포츠센터": {
+      "style": "ribbon",
+      "wall": "#e6e9e9",
+      "glass": "#48646f",
+      "frame": "#c9cfce"
+    },
+    "의생명과학대학 B동": {
+      "style": "tan",
+      "wall": "#c8b59f",
+      "glass": "#3c4a52",
+      "frame": "#e6e2da",
+      "hip": true,
+      "roof": "#8f9ca4"
+    },
+    "중앙도서관": {
+      "style": "tan",
+      "wall": "#e1dcce",
+      "glass": "#5c656d",
+      "frame": "#f0ece2"
+    },
+    "60주년 기념관": {
+      "style": "stone",
+      "wall": "#bcb7b0",
+      "glass": "#4f6575",
+      "frame": "#dcd9d4"
+    },
+    "천지관": {
+      "style": "ribbon",
+      "wall": "#dbd6cf",
+      "glass": "#3c4650",
+      "frame": "#aa9f97"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
